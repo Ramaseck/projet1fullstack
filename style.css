@@ -1,0 +1,69 @@
+table{
+    margin: auto;
+    border: 2px solid blue; 
+    cursor: pointer;
+    box-shadow: 2px 0px 5px blue;
+}
+thead tr{
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+th ,td{
+    padding: 20px;
+}
+thead, td, th,tr{
+    border: 1px solid #ddd;
+     
+}
+thead tr th{
+font-family:'Times New Roman' ;
+}
+/*font family*/
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+/*font size*/
+p{
+    font-size: 10 px;
+}
+/*font style*/
+h2{
+    font-style: italic;
+   
+}
+/*font weight*/
+h3{
+    font-weight: 100px;
+}
+/*TEXT ALIGN */
+h1{
+    text-align: center;
+}
+/*text transform*/
+p{
+    text-transform: capitalize;
+}
+/*text decoraation*/
+a{
+    text-decoration: none;
+}
+/*text indent*/
+/*text shadow creer une ombre*/
+h1{
+    text-shadow: 1px 1px 4px blue;
+}
+/*line height distance antre deux ligne de text*/
+p{
+    line-height: 20px;
+}
+/*letter spacing pour definir l'espace entre les lettre*/
+p{
+    letter-spacing: 10px;
+}
+/*word spacing pour definir l'espace entre les mots*/
+p{
+    word-spacing: 10px;
+}
+
+
